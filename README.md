@@ -12,6 +12,8 @@
 
 **Price: $1.99 per 1,000 results**
 
+![screenshot](docs/hero-screenshot.png)
+
 ## What does Liepin Scraper do?
 
 The **Liepin Scraper** extracts white-collar job listings from **Liepin** (liepin.com), China's #2 professional recruitment platform. It captures the unique salary structures that make Liepin different from other job boards.
