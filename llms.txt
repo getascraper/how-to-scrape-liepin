@@ -1,0 +1,38 @@
+# llms.txt for how-to-scrape-liepin
+
+## Project Overview
+
+Liepin scraper and Chinese white-collar job data extraction API. Extract jobs with monthly CNY salaries, bonus months, recruiter data, and company profiles from liepin.com with this Apify Actor. Bilingual Chinese/English output. Free tier included.
+
+## Repository
+
+- GitHub: https://github.com/getascraper/how-to-scrape-liepin
+- Apify Actor: https://apify.com/getascraper/liepin-scraper
+
+## Key Features
+
+- Extract white-collar jobs from Liepin (猎聘)
+- CNY salary normalization with bonus months (13薪, 16薪)
+- Bilingual field translations (Chinese to English)
+- Company profiles: type, size, stage
+- Experience and degree requirements
+- Predictable URL extraction
+
+## Output Format
+
+JSON with fields: sku, productId, url, title, companyName, salaryRawText, minSalaryMonthlyCny, maxSalaryMonthlyCny, bonusMonths, annualEstimateCny, salaryDisclosed, currency, degreeRequired, companyType, experienceRequired, city, province, region, address, scrapedAt
+
+## Technology Stack
+
+- TypeScript
+- Playwright (browser automation)
+- Bilingual translations
+- ESM modules
+
+## Usage
+
+Requires Apify account and API token. Run via Apify Console or API.
+
+## Support
+
+Open an issue at https://github.com/getascraper/how-to-scrape-liepin/issues

@@ -1,0 +1,38 @@
+{
+  "name": "how-to-scrape-liepin",
+  "version": "1.0.0",
+  "description": "Liepin scraper and Chinese white-collar job data extraction API. Extract jobs with monthly CNY salaries, bonus months, recruiter data, and company profiles from liepin.com with this Apify Actor. Bilingual output. Free tier included.",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "apify": "^3.0.0",
+    "crawlee": "^3.0.0",
+    "playwright": "^1.40.0"
+  },
+  "keywords": [
+    "apify",
+    "apify-actor",
+    "liepin",
+    "china-white-collar-jobs",
+    "chinese-jobs",
+    "recruitment",
+    "cny-salaries",
+    "bonus-months",
+    "tech-jobs",
+    "job-listings",
+    "scraper",
+    "api",
+    "salary-data",
+    "web-scraping",
+    "data-extraction",
+    "playwright",
+    "crawler",
+    "beijing",
+    "shanghai"
+  ],
+  "author": "Devansh-365 <devansh@apify.com>",
+  "license": "MIT"
+}
