@@ -1,4 +1,4 @@
-# Liepin Scraper | China White-Collar Jobs | Apify Actor
+<h1 align="center">Liepin Scraper | China White-Collar Jobs | Apify Actor</h1>
 
 <p align="center">
   <a href="https://apify.com/getascraper/liepin-scraper"><img src="https://img.shields.io/badge/apify%20actor-ready-green" alt="Apify Actor"></a>
@@ -8,11 +8,17 @@
   <a href="https://apify.com/getascraper/liepin-scraper"><img src="https://img.shields.io/badge/cny%20salaries-13薪%20%7C%2016薪-yellow" alt="CNY Salaries"></a>
 </p>
 
-**Liepin scraper and Chinese white-collar job data extraction API.** Extract jobs with monthly CNY salaries, bonus months (13薪, 16薪), recruiter data, and company profiles from liepin.com with this Apify Actor. Bilingual Chinese/English output. Free tier included.
+<p align="center">
+  <strong>Liepin scraper and Chinese white-collar job data extraction API.</strong> Extract jobs with monthly CNY salaries, bonus months (13薪, 16薪), recruiter data, and company profiles from liepin.com with this Apify Actor. Bilingual Chinese/English output. Free tier included.
+</p>
 
-**Price: $1.99 per 1,000 results**
+<p align="center">
+  <strong>Price: $1.99 per 1,000 results</strong>
+</p>
 
-![screenshot](docs/hero-screenshot.png)
+<p align="center">
+  <img src="docs/hero-screenshot.png" alt="screenshot">
+</p>
 
 ## What does Liepin Scraper do?
 
